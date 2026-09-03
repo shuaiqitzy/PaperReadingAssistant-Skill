@@ -1,6 +1,6 @@
 # PaperReadingAssistant-Skill
 
-`PaperReadingAssistant` 是一个面向医疗影像、机器学习和人工智能论文的 Codex skill。它可从本地 PDF、DOI、arXiv 链接、论文标题或网页链接出发，按 `0-8` 阶段递进式解释论文；仅在用户明确要求“深入 / follow”时，继续分析脆弱假设、最小复现、反例和非增量 follow-up idea。
+`PaperReadingAssistant` 是一个面向机器学习论文的 Codex skill。它可从本地 PDF、DOI、arXiv 链接、论文标题或网页链接出发，按 `0-8` 阶段递进式解释论文；仅在用户明确要求“深入 / follow”时，继续分析脆弱假设、最小复现、反例和非增量 follow-up idea。
 
 ## 文件说明
 
