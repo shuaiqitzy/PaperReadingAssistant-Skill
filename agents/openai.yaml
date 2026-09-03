@@ -1,0 +1,6 @@
+interface:
+  display_name: "PaperReadingAssistant"
+  short_description: "递进式精读医疗影像与 AI 论文"
+  default_prompt: "Use $paper-reading-assistant to explain this paper from items 0-8: <PDF, DOI, arXiv link, title, or URL>."
+policy:
+  allow_implicit_invocation: false
