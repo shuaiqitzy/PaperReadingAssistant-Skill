@@ -7,6 +7,7 @@
 | 文件 | 作用 |
 | --- | --- |
 | `SKILL.md` | Skill 主入口：定义输入、检索优先级、`0-8` / `9-12` 运行门控、证据分级和输出风格。 |
-| `Prompt.txt` | 用户提供的原始论文阅读 prompt，便于审阅、复用或二次修改。 |
+| `Prompt.txt` | 原始论文阅读 prompt，便于审阅、复用或二次修改。 |
+| `Prompt_Lite.txt` | 原始论文阅读 prompt 轻量版，用于快速掌握文章核心要义，直接一整段发送给 AI 即可。 |
 | `agents/openai.yaml` | Codex 界面配置：显示名为 `PaperReadingAssistant`，并限制为显式调用 `$paper-reading-assistant`。 |
 | `references/staged-reading-protocol.md` | 按 `0-12` 组织的完整递进式论文阅读协议与输出要求。 |
